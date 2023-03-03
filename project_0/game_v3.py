@@ -4,7 +4,7 @@
 
 import numpy as np
 
-def random_predic(number: int = 1) -> int:
+def random_predict(number: int = 1) -> int:
     """
     Args:
         number (int, optional): Загаданное число. Defaults to 1.
