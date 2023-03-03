@@ -38,7 +38,7 @@
 :arrow_up: [К оглавлению](README.md#оглавление)
 
 ### Краткая ниформация о данных
-[requirements.txt]() - версии библиотек.
+[requirements.txt](/project_0/requirements.txt) - версии библиотек.
 
 :arrow_up: [К оглавлению](README.md#оглавление)
 
