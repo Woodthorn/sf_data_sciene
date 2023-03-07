@@ -45,6 +45,7 @@ def score_game(game_core_v3) -> int:
 
     score = int(np.mean(count_ls))
     print(f"Ваш алгоритм угадывает число в среднем за:{score} попыток")
+    
     return score
 
 
